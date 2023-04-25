@@ -1,0 +1,63 @@
+<div id="sous-galerie" class="presentation">
+    <div class="carte">
+        <h1>Modele d'afrique</h1>
+        <img class="modele" src="image/img1.jpg" alt="modele">
+        <ul>
+            <li>Tissu en coton 100%</li>
+            <li>Modèle typiquement africain</li>
+            <li>Maison Aicha's Store, 2023</li>
+        </ul>
+    </div>
+    <div class="carte">
+        <h1>Modele d'afrique</h1>
+        <img class="modele" src="image/img1.jpg" alt="modele">
+        <p>
+            <ul>
+                <li>Tissu en coton 100%</li>
+                <li>Modèle typiquement africain</li>
+                <li>Maison Aicha's Store, 2023</li>
+            </ul>
+        </p>
+    </div>
+    <div class="carte">
+        <h1>Modele d'afrique</h1>
+        <img class="modele" src="image/img1.jpg" alt="modele">
+        <ul>
+            <li>Tissu en coton 100%</li>
+            <li>Modèle typiquement africain</li>
+            <li>Maison Aicha's Store, 2023</li>
+        </ul>
+    </div>
+</div>
+<div id="sous-galerie" class="presentation">
+    <div class="carte">
+        <h1>Modele d'afrique</h1>
+        <img class="modele" src="image/img1.jpg" alt="modele">
+        <ul>
+            <li>Tissu en coton 100%</li>
+            <li>Modèle typiquement africain</li>
+            <li>Maison Aicha's Store, 2023</li>
+        </ul>
+    </div>
+    <div class="carte">
+        <h1>Modele d'afrique</h1>
+        <img class="modele" src="image/img1.jpg" alt="modele">
+        <p>
+            <ul>
+                <li>Tissu en coton 100%</li>
+                <li>Modèle typiquement africain</li>
+                <li>Maison Aicha's Store, 2023</li>
+            </ul>
+        </p>
+    </div>
+    <div class="carte">
+        <h1>Modele d'afrique</h1>
+        <img class="modele" src="image/img1.jpg" alt="modele">
+        <ul>
+            <li>Tissu en coton 100%</li>
+            <li>Modèle typiquement africain</li>
+            <li>Maison Aicha's Store, 2023</li>
+        </ul>
+    </div>
+
+</div>
