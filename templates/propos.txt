@@ -1,0 +1,6 @@
+<p>
+    La maison Aicha's Store vous souhaite la bienvenue sur son site internet. 
+    Elle a vocation à vous proposer un gamme étendu de production couturière
+    de type africaine. Votre satisfaction est notre motivation! Faites votre 
+    dans notre galerie.
+</p>

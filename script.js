@@ -3,20 +3,20 @@ $(init);
 function init() {
     
     //initialisation
-    $(accueil);
+    //$(accueil);
     $(galerie);
-    $(astuce);
+    //$(astuce);
     $(propos);
 
-    $("#accueil").show();
-    $("#galerie").hide();
-    $("#Astuce").hide();
+    //$("#accueil").hide();
+    $("#galerie").show();
+    //$("#Astuce").hide();
     $("#propos").hide();
 
     //bouton de menu
-    $("#btnAccueil").click(btnAccueil);
+    //$("#btnAccueil").click(btnAccueil);
     $("#btnGalerie").click(btnGalerie);
-    $("#btnAstuce").click(btnAstuce);
+    //$("#btnAstuce").click(btnAstuce);
     $("#btnPropos").click(btnPropos);
 
 } //fin init
@@ -25,31 +25,31 @@ function init() {
 /*Javascript pour les boutons menu*/
 ////////////////////////////////////
 
-function btnAccueil() {
+/*function btnAccueil() {
     $("#accueil").show();
     $("#galerie").hide();
     $("#astuce").hide();
     $("#propos").hide();
-} //fin btnAccueil
+} //fin btnAccueil*/
 
 function btnGalerie() {
-    $("#accueil").hide();
+    //$("#accueil").hide();
     $("#galerie").show();
-    $("#astuce").hide();
+    //$("#astuce").hide();
     $("#propos").hide();
 } //fin btnGalerie
 
-function btnAstuce() {
+/*function btnAstuce() {
     $("#accueil").hide();
     $("#galerie").hide();
     $("#astuce").show();
     $("#propos").hide();
-} //fin btnAstuce
+} //fin btnAstuce*/
 
 function btnPropos() {
-    $("#accueil").hide();
+    //$("#accueil").hide();
     $("#galerie").hide();
-    $("#astuce").hide();
+    //$("#astuce").hide();
     $("#propos").show();
 } //fin btnPropos
 
@@ -57,17 +57,17 @@ function btnPropos() {
 /*Chargement des contenus*/
 ///////////////////////////
 
-function accueil() {
+/*function accueil() {
     $("#accueil").load("templates/accueil.txt");
-} //fin accueil
+} //fin accueil*/
 
 function galerie() {
     $("#galerie").load("templates/galerie.txt");
 } //fin galerie
 
-function astuce() {
+/*function astuce() {
     $("#astuce").load("templates/astuce.txt");
-} //fin astuce
+} //fin astuce*/
 
 function propos() {
     $("#propos").load("templates/propos.txt");
