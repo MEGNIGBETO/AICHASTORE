@@ -1,7 +1,7 @@
 <div id="sous-galerie" class="presentation">
     <div class="carte">
-        <h1>Modele d'afrique</h1>
         <img class="modele" src="image/img1.jpg" alt="modele">
+        <h1>Modele d'afrique</h1>
         <ul>
             <li>Tissu en coton 100%</li>
             <li>Modèle typiquement africain</li>
@@ -9,19 +9,17 @@
         </ul>
     </div>
     <div class="carte">
+        <img class="modele" src="image/img2.jpg" alt="modele">
         <h1>Modele d'afrique</h1>
-        <img class="modele" src="image/img1.jpg" alt="modele">
-        <p>
-            <ul>
-                <li>Tissu en coton 100%</li>
-                <li>Modèle typiquement africain</li>
-                <li>Maison Aicha's Store, 2023</li>
-            </ul>
-        </p>
+        <ul>
+            <li>Tissu en coton 100%</li>
+            <li>Modèle typiquement africain</li>
+            <li>Maison Aicha's Store, 2023</li>
+        </ul>
     </div>
     <div class="carte">
+        <img class="modele" src="image/img3.jpg" alt="modele">
         <h1>Modele d'afrique</h1>
-        <img class="modele" src="image/img1.jpg" alt="modele">
         <ul>
             <li>Tissu en coton 100%</li>
             <li>Modèle typiquement africain</li>
@@ -31,8 +29,8 @@
 </div>
 <div id="sous-galerie" class="presentation">
     <div class="carte">
+        <img class="modele" src="image/img4.jpg" alt="modele">
         <h1>Modele d'afrique</h1>
-        <img class="modele" src="image/img1.jpg" alt="modele">
         <ul>
             <li>Tissu en coton 100%</li>
             <li>Modèle typiquement africain</li>
@@ -40,24 +38,50 @@
         </ul>
     </div>
     <div class="carte">
+        <img class="modele" src="image/img5.jpg" alt="modele">
         <h1>Modele d'afrique</h1>
-        <img class="modele" src="image/img1.jpg" alt="modele">
-        <p>
-            <ul>
-                <li>Tissu en coton 100%</li>
-                <li>Modèle typiquement africain</li>
-                <li>Maison Aicha's Store, 2023</li>
-            </ul>
-        </p>
-    </div>
-    <div class="carte">
-        <h1>Modele d'afrique</h1>
-        <img class="modele" src="image/img1.jpg" alt="modele">
         <ul>
             <li>Tissu en coton 100%</li>
             <li>Modèle typiquement africain</li>
             <li>Maison Aicha's Store, 2023</li>
         </ul>
     </div>
-
+    <div class="carte">
+        <img class="modele" src="image/img6.jpg" alt="modele">
+        <h1>Modele d'afrique</h1>
+        <ul>
+            <li>Tissu en coton 100%</li>
+            <li>Modèle typiquement africain</li>
+            <li>Maison Aicha's Store, 2023</li>
+        </ul>
+    </div>
+</div>
+<div id="sous-galerie" class="presentation">
+    <div class="carte">
+        <img class="modele" src="image/img7.jpg" alt="modele">
+        <h1>Modele d'afrique</h1>
+        <ul>
+            <li>Tissu en coton 100%</li>
+            <li>Modèle typiquement africain</li>
+            <li>Maison Aicha's Store, 2023</li>
+        </ul>
+    </div>
+    <div class="carte">
+        <img class="modele" src="image/img8.jpg" alt="modele">
+        <h1>Modele d'afrique</h1>
+        <ul>
+            <li>Tissu en coton 100%</li>
+            <li>Modèle typiquement africain</li>
+            <li>Maison Aicha's Store, 2023</li>
+        </ul>
+    </div>
+    <div class="carte">
+        <img class="modele" src="image/img9.jpg" alt="modele">
+        <h1>Modele d'afrique</h1>
+        <ul>
+            <li>Tissu en coton 100%</li>
+            <li>Modèle typiquement africain</li>
+            <li>Maison Aicha's Store, 2023</li>
+        </ul>
+    </div>
 </div>
