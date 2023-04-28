@@ -124,6 +124,12 @@ body {
         width: 100%;
     }
 
+    #propos {
+        padding: 10px 2% 10px 2%;
+        justify-content: center;
+        text-align: justify;
+    }
+
     #pied {
         text-align: center;
         font-style: italic;
