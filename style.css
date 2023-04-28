@@ -67,6 +67,12 @@ body {
     color: rgb(50, 73, 36);
 }
 
+#propos {
+    padding: 10px 20% 10px 20%;
+    justify-content: center;
+    text-align: justify;
+}
+
 .main {
     height: 75vh;
 }
